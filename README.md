@@ -1,15 +1,21 @@
 ![](https://github.com/paulmarniquet/paulmarniquet/blob/main/assets/github.gif?raw=true)
 
 
-### About Me:
+---
+
+## About me:
+
+- 🎓 I'm a french student in computer science based in the south of France.
+- 💻 I'm actually working on a game project called **Rolland Gamos** which is one of the first rap games in the world.
+- 💬 On the other hand, I am passionate about music and I develop some music projects that you can find on my [Spotify](https://spotify.com/).
+- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/paul-marniquet/).
 
 
-- 🏦 
-- 💻 
-- 📖 
-- 💬 
+If you want to know more about my projects, you can check my [website](https://paulmarniquet.com/).
 
+---
 
+## Languages and Tools :
 <p align="center">
       <img src="https://img.icons8.com/color/480/c-programming.png" alt="c" width="65" height="65"/>          
       <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c++" width="55" height="55"/>     
@@ -21,6 +27,7 @@
 
 ---
 
+## My Github Stats :
 
 
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=paulmarniquet&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
@@ -28,12 +35,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulmarniquet&theme=dark)](https://git.io/streak-stats)
 
 
+---
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=paulmarniquet)
 ![GitHub followers](https://img.shields.io/github/followers/paulmarniquet?style=social)
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-
-
