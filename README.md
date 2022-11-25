@@ -33,7 +33,7 @@ If you want to know more about my projects, you can check my [website](https://p
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=paulmarniquet&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmarniquet&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/paulmarniquet/github-readme-stats)
 
-<img src = "https://tryhackme.com/badge/988613" alt="css"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/paul.marniquet.png" alt="TryHackMe">
 
 ---
 
