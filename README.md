@@ -11,7 +11,7 @@
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/paul-marniquet/).
 
 
-If you want to know more about my projects, you can check my [website](https://paulmarniquet.com/).
+If you want to know more about my projects, you can check my [website](www.paulmarniquet.fr/).
 
 ---
 
