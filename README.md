@@ -7,7 +7,7 @@
 
 - 🎓 I'm a french student in computer science based in the south of France.
 - 💻 I'm actually working on a game project called **Rolland Gamos** which is one of the first rap games in the world.
-- 💬 On the other hand, I am passionate about music and I develop some music projects that you can find on my [Spotify](https://spotify.com/).
+- 💬 On the other hand, I am passionate about music and I develop some music projects that you can find on my [Spotify](https://open.spotify.com/artist/1QPBg1Edvg3dd0IudyCXBS).
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/paul-marniquet/).
 
 
