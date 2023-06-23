@@ -27,7 +27,8 @@ If you want to know more about my projects, you can check my [website](https://w
       <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="flutter" width="55" height="55"/>
       <img src="https://img.icons8.com/color/480/c-programming.png" alt="c" width="65" height="65"/>          
       <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="c++" width="55" height="55"/>
-      
+      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="gitlab" width="55" height="55"/>
 </p>
 
 ---
