@@ -20,8 +20,8 @@ If you want to know more about my projects, you can check my [website](https://w
       <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html" width="55" height="55"/>
       <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="55" height="55"/>
-            <img src="[https://www.vectorlogo.zone/logos/python/python-icon.svg](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg)" alt="django" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="55" height="55"/> 
+            <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mySQL" width="66" height="66">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> 
       <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="flutter" width="55" height="55"/>
