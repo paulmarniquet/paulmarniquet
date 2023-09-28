@@ -20,7 +20,7 @@ If you want to know more about my projects, you can check my [website](https://w
       <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="HTML" width="55" height="55"/>
       <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VueJS" width="55" height="55"/>
-            <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="75" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mySQL" width="66" height="66">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/> 
