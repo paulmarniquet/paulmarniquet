@@ -26,7 +26,7 @@ If you want to know more about my projects, you can check my [website](https://w
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/> 
       <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="Flutter" width="55" height="55"/>
       <img src="https://img.icons8.com/color/480/c-programming.png" alt="C" width="65" height="65"/>          
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" width="85" height="55"/>
 </p>
 
 
