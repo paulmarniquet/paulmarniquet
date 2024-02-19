@@ -1,13 +1,11 @@
-![](https://github.com/paulmarniquet/paulmarniquet/blob/main/assets/github.gif?raw=true)
+![](https://utfs.io/f/c14291bb-93c4-4359-a3d2-f2a8ace5000b-1ki63r.png)
 
 
 ---
 
-## about me:
+## about me
 
-hello,
-<br>
-welcome to my gitHub page where you'll find many unfinished projects that have taught me a lot (fortunately...). 
+welcome to my github page where you'll find many unfinished projects that have taught me a lot (fortunately...). 
 <br>
 <br>
 i'm a french web developer based in the south of France. 
@@ -21,7 +19,7 @@ on the other hand, i am passionate about music, especially Rap. you can find my 
 
 ---
 
-## technologies:
+## technologies
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
       <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="55" height="55"/> 
@@ -38,7 +36,7 @@ on the other hand, i am passionate about music, especially Rap. you can find my 
 
 ---
 
-## stats :
+## stats
 
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=paulmarniquet&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmarniquet&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/paulmarniquet/github-readme-stats)
