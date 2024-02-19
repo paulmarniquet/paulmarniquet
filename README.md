@@ -7,14 +7,14 @@
 
 hello,
 <br>
-welcome to my GitHub page where you'll find many unfinished projects that have taught me a lot (fortunately...). 
+welcome to my gitHub page where you'll find many unfinished projects that have taught me a lot (fortunately...). 
 <br>
 <br>
 i'm a french web developer based in the south of France. 
 <br>
-currently, I work on my antisocial network but it's still too early to explain it. Apart from learning projects, I aim to work on projects that truly resonate with me
+currently, i work on my antisocial network but it's still too early to explain it. Apart from learning projects, I aim to work on projects that truly resonate with me.
 <br>
-on the other hand, I am passionate about music, especially Rap. You can find my project on my [Spotify](https://open.spotify.com/artist/1QPBg1Edvg3dd0IudyCXBS).
+on the other hand, i am passionate about music, especially Rap. you can find my project on my [Spotify](https://open.spotify.com/artist/1QPBg1Edvg3dd0IudyCXBS).
 <br>
 <br>
 - if you want to know more about my projects, you can check my [website](https://www.paulmarniquet.fr/).
