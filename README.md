@@ -5,7 +5,7 @@
 
 ## about me:
 
-Hello,
+hello,
 <br>
 welcome to my GitHub page where you'll find many unfinished projects that have taught me a lot (fortunately...). 
 <br>
