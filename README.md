@@ -1,3 +1,8 @@
+![](https://utfs.io/f/9ddef590-6a8c-4243-9d0d-af4fcb15c82e-uoucxe.png)
+
+---
+
+
 ### hello, i'm paul ! 🌻
 
 A french web developer based in the south of France. :fr:
@@ -5,10 +10,6 @@ A french web developer based in the south of France. :fr:
 - 🎵 On the other hand, i am passionate about music, especially rap. You can find my project on my [Spotify](https://open.spotify.com/artist/1QPBg1Edvg3dd0IudyCXBS).
 
 - if you want to know more about my projects, you can check my [website](https://www.paulmarniquet.fr/).
-
----
-
-![](https://utfs.io/f/9ddef590-6a8c-4243-9d0d-af4fcb15c82e-uoucxe.png)
 
 ## technologies
 <p align="center">
