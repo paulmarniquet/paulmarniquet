@@ -3,20 +3,13 @@
 
 ---
 
-## about me
+### hello, i'm paul ! 🌻
 
-Welcome to my github page where you'll find many unfinished projects that have taught me a lot (fortunately...). 
+I'm a french web developer based in the south of France. :fr:
+- 💻 Currently, i work on my special social network but it's still too early to explain it.<br> Apart from learning projects, I aim to work on projects that truly resonate with me.
+- 🎵 On the other hand, i am passionate about music, especially rap. You can find my project on my [Spotify](https://open.spotify.com/artist/1QPBg1Edvg3dd0IudyCXBS).
 <br>
-<br>
-I'm a french web developer based in the south of France. 
-<br>
-Currently, i work on my antisocial network but it's still too early to explain it. Apart from learning projects, I aim to work on projects that truly resonate with me.
-<br>
-On the other hand, i am passionate about music, especially Rap. You can find my project on my [Spotify](https://open.spotify.com/artist/1QPBg1Edvg3dd0IudyCXBS).
-<br>
-- if you want to know more about my projects, you can check my [website](https://www.paulmarniquet.fr/).
-
----
+if you want to know more about my projects, you can check my [website](https://www.paulmarniquet.fr/).
 
 ## technologies
 <p align="center">
