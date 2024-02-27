@@ -33,6 +33,3 @@ A french web developer based in the south of France. :fr:
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=paulmarniquet&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmarniquet&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/paulmarniquet/github-readme-stats)
 
----
-
-![GitHub followers](https://img.shields.io/github/followers/paulmarniquet?style=social)
