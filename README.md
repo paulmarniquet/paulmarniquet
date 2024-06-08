@@ -42,6 +42,7 @@ z-index: -1;
 position: fixed;
 inset:0;
 opacity: 1.0;
-background: url('https://misstake.s3.eu-west-3.amazonaws.com/200w.gif');
+background: url('https://github.com/paulmarniquet/paulmarniquet/assets/72015483/db6ad7d2-5dec-4e3d-b484-067fc77d830d');
 "]{}
 ```
+
