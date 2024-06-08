@@ -42,6 +42,6 @@ z-index: -1;
 position: fixed;
 inset:0;
 opacity: 1.0;
-background: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2k0cTRuOWxxYjV1czF6dGlwYmVqc3B4dXRpZGxwbGd5MnA5aWljbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ggVRSzCcA80es/giphy.webp');
+background: url('https://misstake.s3.eu-west-3.amazonaws.com/200w.gif');
 "]{}
 ```
