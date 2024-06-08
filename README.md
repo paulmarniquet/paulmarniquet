@@ -33,16 +33,3 @@ A french web developer based in the south of France. :fr:
 ![Paul's github stats](https://github-readme-stats.vercel.app/api?username=paulmarniquet&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmarniquet&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/paulmarniquet/github-readme-stats)
 
-```math
-\mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
-pointer-events:none;
-z-index: -1;
-position: fixed;
-inset:0;
-opacity: 1.0;
-background: url('https://github.com/paulmarniquet/paulmarniquet/assets/72015483/db6ad7d2-5dec-4e3d-b484-067fc77d830d');
-"]{}
-```
-
