@@ -6,7 +6,7 @@
 ### hello, i'm paul ! 🌻
 
 A french web developer based in the south of France. :fr:
-- 💻 Currently, i work on my special social network but it's still too early to explain it.<br> Apart from learning projects, I aim to work on projects that truly resonate with me.
+- 💻 Currently, i work on my SaaS which is an online appointment booking platform. <br> Apart from learning projects, I aim to work on projects that truly resonate with me.
 - 🎵 On the other hand, i am passionate about music, especially rap. You can find my project on my [Spotify](https://open.spotify.com/artist/1QPBg1Edvg3dd0IudyCXBS).
 
 - if you want to know more about my projects, you can check my [website](https://www.paulmarniquet.fr/).
