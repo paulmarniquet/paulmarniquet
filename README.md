@@ -6,7 +6,7 @@
 
 ### hello, i'm paul ! 🌻
 
-A french web developer based in the south of France. :fr:
+A french web developer based in Paris. :fr:
 - 💻 Currently, i'm learning Nuxt.js by working on a project called [Bocca](https://bocca.dev) which is a Speech-to-Text desktop App handled by AI. <br> Apart from learning projects, I aim to work on projects that truly resonate with me.
 - 🎵 On the other hand, i am passionate about music, especially rap. You can find my project on my [Spotify](https://open.spotify.com/artist/1QPBg1Edvg3dd0IudyCXBS).
 
